@@ -1,5 +1,10 @@
 # projeto-arquitetura
-Projeto destinado ao aperfeiçoamento de criação de landing-page
+
+Projeto criado para coleta de Leads.
+
+Informações serão listadas em uma planilha no google-sheets para contato posterior.
+
+Ao clicar no botão, o usuário será redirecionado para um anúncio.
 
 Link do site disponibilizado no endereço: https://projeto-arquitetura01.netlify.app/
 
