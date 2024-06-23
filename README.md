@@ -2,7 +2,7 @@
 
 Projeto criado para coleta de Leads.
 
-Informações serão listadas em uma planilha no google-sheets para contato posterior.
+Informações serão listadas em uma planilha no google-sheets para contato posterior ou anúncios.
 
 Ao clicar no botão, o usuário será redirecionado para um anúncio.
 
